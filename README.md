@@ -1,4 +1,5 @@
-# ASC_Student_Challenge_2021
+# Machine learning for designing optimal cure cycles for manufacturing robust sandwich composite materials. 
+
 Submission for ASC student challenge (2021)
 
 The goal of this challenge is to design new and optimal cure cycles to manufacture sandwich composite structures. 
